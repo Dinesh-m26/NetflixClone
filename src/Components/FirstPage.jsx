@@ -4,7 +4,7 @@ const FirstPage = () => {
   return (
     <div>
       
-      <div className="relative bg-[url('https://assets.nflxext.com/ffe/siteui/vlv3/a99688ca-33c3-4099-9baa-07a2e2acb398/ca15fd28-b624-4852-8bfe-9cdd5c88475d/IN-en-20240520-popsignuptwoweeks-perspective_alpha_website_small.jpg')] h-[98vh] bg-center ">
+      <div className="relative bg-[url('https://assets.nflxext.com/ffe/siteui/vlv3/a99688ca-33c3-4099-9baa-07a2e2acb398/ca15fd28-b624-4852-8bfe-9cdd5c88475d/IN-en-20240520-popsignuptwoweeks-perspective_alpha_website_small.jpg')] h-[92vh] md:h-[96vh] bg-center ">
         <div className="absolute top-0 bottom-0 left-0 right-0   bg-gradient-to-b from-black/90 via-black/30 to-black/90 ">
           <div className="px-4 lg:px-44 pt-5 flex ">
             <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/netflix_official_logo_icon_168085.png" alt="img" className="my-auto mr-auto w-24 h-7 md:w-36 md:h-10 " />
