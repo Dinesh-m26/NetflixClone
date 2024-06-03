@@ -12,7 +12,7 @@ const FirstPage = () => {
               <option className="bg-transparent p-2 text-black" value="option1">English</option>
               <option className="bg-transparent p-2 text-black" value="option2">हिंदी</option>
             </select>
-            <a className="bg-red-600 rounded text-white p-1 px-4 my-auto">Signin</a>
+            <a href="#" className="bg-red-600 rounded text-white p-1 px-4 my-auto">Signin</a>
           </div>
 
           <div className="px-4 md:px-0 flex flex-col text-center my-auto text-white mt-16 md:mt-56">
@@ -24,7 +24,7 @@ const FirstPage = () => {
           </div>
           <div className=" mx-auto mt-4 flex-col md:flex-row flex justify-center ">
             <input placeholder="Email address" className="bg-[#232323]/50 md:pl-2 mx-10 p-3 md:mx-0 md:p-0 lg:p-4 lg:pr-40 md:mr-2 border border-gray-400  rounded  text-white" />
-            <a className="bg-red-600 font-semibold text-white text-xl mx-auto md:ml-0 md:text-2xl rounded  md:px-6 p-3  md:mx-0 mt-3 md:mt-0 ">Get Started {'>'}  </a>
+            <a href="#" className="bg-red-600 font-semibold text-white text-xl mx-auto md:ml-0 md:text-2xl rounded  md:px-6 p-3  md:mx-0 mt-3 md:mt-0 ">Get Started {'>'}  </a>
           </div>
         </div>
       </div>

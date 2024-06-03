@@ -7,7 +7,7 @@ const PageTwo = () => {
                     <p className="text-center lg:text-left text-lg lg:text-2xl font-normal mt-4 md:mt-0 md:pt-7">Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.</p>
                 </div>
                 <div className="lg:w-1/2 relative flex justify-center mt-10 md:mt-0">
-                    <img className="relative z-10 w-[100%] max-w-lg" src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png" alt="" />
+                    <img className="relative z-10 w-[100%] max-w-lg" src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png" alt="loading" />
                     <video className="absolute top-[20%] md:w-[51%] w-[80%] lg:w-[65%]" autoPlay playsInline muted loop>
                         <source src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-tv-in-0819.m4v" type="video/mp4" />
                     </video>
